@@ -1,0 +1,17 @@
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+.space-carousel {
+    height:95px;
+    background: #DEF1E5;
+    overflow: hidden;
+  }
+
+.space-carousel{
+  background:none;
+}
+
+
+
+
